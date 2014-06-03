@@ -36,7 +36,7 @@
         <img src="images/sonicOpen.png" style="display:none"/>
         <img src="images/dalekArmy.jpg" style="display:none"/>
     </div>
-    <script src="JS/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="JS/moleVars.js"></script>
     <script src="JS/mole.js"></script>
 </body>

@@ -1,0 +1,11 @@
+/*--- Server setup ---*/
+var express = require('express');
+var server = express();
+server.use('/',express.static(__dirname + '/'));
+server.use(bodyParser());
+server.listen(3000);
+
+
+
+
+
